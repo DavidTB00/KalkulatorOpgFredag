@@ -1,0 +1,14 @@
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\bin\Debug\net9.0\OppgaveFredag.exe
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\bin\Debug\net9.0\OppgaveFredag.deps.json
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\bin\Debug\net9.0\OppgaveFredag.runtimeconfig.json
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\bin\Debug\net9.0\OppgaveFredag.dll
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\bin\Debug\net9.0\OppgaveFredag.pdb
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\OppgaveFredag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\OppgaveFredag.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\OppgaveFredag.AssemblyInfo.cs
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\OppgaveFredag.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\OppgaveFredag.dll
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\refint\OppgaveFredag.dll
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\OppgaveFredag.pdb
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\OppgaveFredag.genruntimeconfig.cache
+C:\Users\David\source\repos\OppgaveFredag\OppgaveFredag\obj\Debug\net9.0\ref\OppgaveFredag.dll
